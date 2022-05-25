@@ -13,7 +13,7 @@ const WeatherLookup = () => {
   useUpdateEffect(() => {
     const fetchWeatherData = async () => {
       const weatherData = await fetch(
-        `http://api.openweathermap.org/geo/1.0/direct?q=${location}&appid=bac8236c7a5c5766de9c8c5415751152`
+        `https://api.openweathermap.org/geo/1.0/direct?q=${location}&appid=bac8236c7a5c5766de9c8c5415751152`
       )
         .then((fetchedData) => fetchedData.json())
         .then((jsonData) => jsonData[0])
