@@ -1,6 +1,6 @@
 # Weather App - My Second React Project
 
-This project is part of my ongoing effort to develop my frontend skills. It was made with React and Tailwind CSS.
+This project is part of my ongoing effort to develop my frontend skills. It was made with React and Tailwind CSS. It is a follow-up to a tutorial on Youtube which I thought could use some improvements in code structure and functionality.
 
 Have a look at the deployment and see important weather information from any city in the world!
 
