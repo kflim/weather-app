@@ -2,7 +2,7 @@
 
 This project is part of my ongoing effort to develop my frontend skills. It was made with React and Tailwind CSS. It is a follow-up to a tutorial on Youtube which I thought could use some improvements in code structure and functionality.
 
-Have a look at the deployment and see important weather information from any city in the world!
+Have a look at the deployment and see important weather information from any city in the world! Note that the background images are restricted to 50 per hour due to restrictions on API usage and any further request in that hour will not generate new background images.
 
 ## Challenges
 
